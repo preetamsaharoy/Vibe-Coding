@@ -1,0 +1,5 @@
+{
+  "name": "SQL Lens",
+  "description": "Visualize complex SQL queries, joins, and subqueries intuitively.",
+  "requestFramePermissions": []
+}
